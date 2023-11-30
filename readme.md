@@ -153,11 +153,12 @@ Podem utilizar texto,cor e tamanho de "objetos", etc.
  - Desafio #10 -I Ching: A partir do Cara ou Coroa, faça um sketch que resulte num hexograma para um jogo de I Ching
 
  - Desafio #11 -Paint: Desenvolver um programa que Utiliza a posição do mouse e o click para pintar no canvas de diferentes formas
-
- - Desafio #12 -Mondrian/De Stijl: Desenvolver um programa que utilize este movimento artístico como referencia estética para composições
  
  - Desafio #13 -Sound Visualizer: Desenvolver alguma forma de visualizar som, utilizando a biblioteca própria para input sonoro
  
  - Desafio #14 -3D: Livre, composição livre em espaço tridimensional utilizando o renderer P3D
 
-  - Desafio #15 -Refazer o exercício da primeira aula, "programação analógica" no Processing
+## EXTRA
+
+ - Refazer o exercício da primeira aula, "programação analógica" no Processing
+ - Desenvolver um sketch livre para ser executado por uma Pen Plotter (uma cor, linhas, pontos e formas variáveis)
