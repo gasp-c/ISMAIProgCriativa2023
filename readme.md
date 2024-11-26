@@ -142,7 +142,7 @@ Podem utilizar texto,cor e tamanho de "objetos", etc.
 
  - Desafio #5 -Guided Meditation:Desenvolva uma animação, de forma livre, que guie um ciclo respiratório (inspire-expire)
 
- - Desafio #6 -Pizza: Livre. Qualquer coisa que se pareça com uma pizza. Mas procurem escrever o código mais bem escrito e que resulte em mais pizzas diferentes a cada vez que roda. 
+ - Desafio #6 -Pizza Generativa: Livre. Qualquer coisa que se pareça com uma pizza. Mas procurem escrever o código mais bem escrito e que resulte em mais pizzas diferentes a cada vez que roda. 
 
  - Desafio #7 -Frieder Nake,Random Polygon, 1963; Referencia
 
